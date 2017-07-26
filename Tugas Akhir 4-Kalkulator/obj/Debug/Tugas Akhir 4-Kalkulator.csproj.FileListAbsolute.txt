@@ -1,0 +1,5 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 4-Kalkulator\Tugas Akhir 4-Kalkulator\bin\Debug\Tugas Akhir 4-Kalkulator.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 4-Kalkulator\Tugas Akhir 4-Kalkulator\bin\Debug\Tugas Akhir 4-Kalkulator.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 4-Kalkulator\Tugas Akhir 4-Kalkulator\bin\Debug\Tugas Akhir 4-Kalkulator.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 4-Kalkulator\Tugas Akhir 4-Kalkulator\obj\Debug\Tugas Akhir 4-Kalkulator.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 4-Kalkulator\Tugas Akhir 4-Kalkulator\obj\Debug\Tugas Akhir 4-Kalkulator.pdb
